@@ -6,5 +6,5 @@ Project of experimental AR scenes. Plane Detection.  Facial Detection. Image Det
 
 <br>
 <img width="200" src="https://github.com/mhellnerdev/AR_Experiments/blob/master/docs/images/AR1.gif">
-<img width="200" src="https://github.com/mhellnerdev/AR_Experiments/blob/master/docs/images/AR2.gif">
+<img width="200" src="https://github.com/mhellnerdev/AR_Experiments/blob/master/docs/images/AR2.gif" style="float:left">
 
